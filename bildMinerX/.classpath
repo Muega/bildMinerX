@@ -1,6 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-api-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-api-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-chrome-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-chrome-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-chromium-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-chromium-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-devtools-v85-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-devtools-v85-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-devtools-v117-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-devtools-v117-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-devtools-v118-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-devtools-v118-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-devtools-v119-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-devtools-v119-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-edge-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-edge-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-firefox-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-firefox-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-http-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-http-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-ie-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-ie-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-java-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-java-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-json-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-json-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-manager-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-manager-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-os-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-os-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-remote-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-remote-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-safari-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-safari-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-support-4.15.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/selenium-support-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/byte-buddy-1.14.5.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/checker-qual-3.33.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/error_prone_annotations-2.18.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/guava-32.1.2-jre.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/j2objc-annotations-2.8.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/opentelemetry-api-1.28.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/opentelemetry-api-events-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/opentelemetry-context-1.28.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/opentelemetry-exporter-logging-1.28.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/opentelemetry-extension-incubator-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/opentelemetry-sdk-1.28.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/opentelemetry-sdk-common-1.28.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/opentelemetry-sdk-logs-1.28.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/opentelemetry-sdk-metrics-1.28.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/opentelemetry-sdk-trace-1.28.0.jar"/>
+	<classpathentry kind="lib" path="P:/Mau/Documents/Projekte/BildMiner/Git/bildMinerX/bildMinerX/ExternalLibrarySeleniumJars/lib/opentelemetry-semconv-1.28.0-alpha.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
