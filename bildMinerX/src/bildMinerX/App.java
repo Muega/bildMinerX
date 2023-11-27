@@ -85,7 +85,7 @@ public class App {
 		        .limit(ChronoUnit.DAYS.between(start, end) + 1)
 		        .forEach(l -> dateList.add(l));
 		
-		driver.get("https://www.bild.de/themen/uebersicht/archiv/archiv-82532020.bild.html");
+		driver.get("https://www.bild.de/themen/uebersicht/archiv/archiv-82532020.bild.html"); //TODO Manchmal wird nichts geklickt
 		wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("sp_message_iframe_940625")));
 		new WebDriverWait(driver, Duration.ofSeconds(20)).until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"notice\"]/div[3]/div[2]/div[2]/button"))).click();
 		driver.switchTo().parentFrame();
